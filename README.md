@@ -1,6 +1,6 @@
 # 2014 - TV Diario App
 
-Wireframe and product design.
+Product design for iOS and Android
 
 Apple Store: https://itunes.apple.com/br/app/tv-diário/id1027772673?mt=8
 
