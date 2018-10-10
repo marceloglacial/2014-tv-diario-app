@@ -31,5 +31,3 @@ https://play.google.com/store/apps/details?id=unifor.br.tvdiario&hl=en_US
 ![screen](design/screens/10 - on demand.jpg)
 
 ![screen](design/screens/11 - playlists.jpg)
-
-
