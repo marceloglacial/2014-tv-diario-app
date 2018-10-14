@@ -1,4 +1,4 @@
-# 2014-TV Diario App
+# TV Diario App (2014)
 
 Product design for iOS and Android
 
